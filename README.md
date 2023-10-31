@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Viktorija</h1>
 <h3 align="center">I'm a self-taught web developer with a strong focus on frontend technologies.</h3>
 
-- 🔭 I’m currently working on **on multiple personal MERN stack projects.** 
+- 🌱 Working with React.js is my personal preference 
+
+- 🔭 I’m currently working **on multiple personal MERN stack projects.** 
 
 - 🌱 I’ve recently started my joruney with Backend, learning **Node.js**
 
