@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Viktorija</h1>
-<h3 align="center">I'm a self-taught web developer with a strong focus on frontend technologies.</h3>
 
 - 🔭 I’m currently working **on personal MERN & MEAN stack projects.** 
 
